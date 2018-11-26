@@ -1,0 +1,42 @@
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  background: #0e1663;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.welcome {
+  height: 75vh;
+  color: #fafafa;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.icons {
+  display: flex;
+  justify-content: space-between;
+  width: 285px;
+}
+
+.title {
+  font-family: 'Rationale', sans-serif;
+  font-size: 60px;
+}
+
+.icon-ios,
+.icon-android {
+  cursor: pointer;
+}

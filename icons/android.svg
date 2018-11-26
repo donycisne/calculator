@@ -1,0 +1,14 @@
+<svg width="125" height="125" viewBox="0 0 250 250" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="250" height="250" rx="50" fill="#DADCDB" />
+  <path d="M125 125H215V190C215 203.807 203.807 215 190 215H125V125Z" fill="#4688F4" />
+  <path d="M125 35H190C203.807 35 215 46.1929 215 60V125H125V35Z" fill="#3B3E41" />
+  <path d="M35 60C35 46.1929 46.1929 35 60 35H125V125H35V60Z" fill="#888E92" />
+  <path d="M35 125H125V215H60C46.1929 215 35 203.807 35 190V125Z" fill="#686C71" />
+  <rect x="76.76" y="152.36" width="7.2" height="36" fill="white" />
+  <rect x="62.36" y="173.96" width="7.2" height="36" transform="rotate(-90 62.36 173.96)" fill="white" />
+  <rect  x="62.36" y="83.96" width="7.2" height="36" transform="rotate(-90 62.36 83.96)" fill="white" />
+  <rect x="152.36" y="165.32" width="7.2" height="36" transform="rotate(-90 152.36 165.32)" fill="white" />
+  <rect x="151.64" y="181.88" width="7.2" height="36" transform="rotate(-90 151.64 181.88)" fill="white" />
+  <rect x="155.087" y="70.1777" width="7.2" height="36" transform="rotate(-45 155.087 70.1777)" fill="white" />
+  <rect x="160.178" y="95.6335" width="7.2" height="36" transform="rotate(-135 160.178 95.6335)" fill="white" />
+</svg>
